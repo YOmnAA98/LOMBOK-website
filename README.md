@@ -5,9 +5,9 @@ Technologies Used: HTML, CSS, Bootstrap.
 
 Website Video: https://drive.google.com/file/d/1zd_rK701qE-68F-6_wvVLT4kUCwTtvHL/view?usp=share_link
 
-![Screenshot (1092)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/cce2cdc7-9502-442c-8530-40a9dff7b8ee)
-[Screenshot (1093)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/88d9919c-91bd-46f4-b652-fd9d00901175)
-![Screenshot (1094)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/348f6a07-b533-469d-9d33-2011f3766e94)
-!![Screenshot (1095)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/88ebe330-1874-4c53-847d-23ca3612bcd4)
-![Screenshot (1096)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/bec23e1a-fe76-41a2-a46a-f48de9ce7043)
-![Screenshot (1098)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/f2f934be-05b6-450b-b719-1b59e821cc44)
+![Screenshot (1092)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/72dfb150-80bb-4c4d-8ebe-a96db4ac27ab)
+![Screenshot (1093)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/82026155-9caa-42c2-bb88-28f16d79515f)
+![Screenshot (1094)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/1b009cf5-f313-404b-b7d2-a56337959338)
+![Screenshot (1095)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/81f82dae-0b85-43e8-86a0-6a90bef0efaf)
+![Screenshot (1096)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/9c685fbc-ac88-49b6-a228-9f8e0d345e7b)
+![Screenshot (1098)](https://github.com/YOmnAA98/LOMBOK-website/assets/97298678/2f64aee5-6d09-4f9d-8525-59d0801cd983)
